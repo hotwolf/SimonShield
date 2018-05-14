@@ -1,0 +1,21 @@
+SimonShield
+===========
+A simple Arduino shield to build a Simon game.
+
+Directories:
+============
+|
++-RevA                  - Everything needed to build hardware RevA
+
+The SimonShield software is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+The hardware design of the SimonShield shield is licensed under a Creative
+Commons Attribution-ShareAlike 3.0 Unported License
+(http://creativecommons.org/licenses/by-sa/3.0/).
+
+The SimonShield shield uses Kicad library components by Walter Lain which are
+licensed under a Creative Commons Attribution-ShareAlike 3.0 License 
+(http://creativecommons.org/licenses/by-sa/3.0/).

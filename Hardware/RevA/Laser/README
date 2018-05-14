@@ -1,0 +1,32 @@
+SimonShield
+===========
+A simple Arduino shield to build a Simon game.
+
+Directories:
+============
+|
++-Laser	                - Design files of the laser cut bottom plate
+|
++-KiCad			- KiCad project file, schematic, layout, and libraries
+|
++-Gerber                - Gerber files for manufacturing
+
+
+Files:
+======
+|
++-SimonShield-RevA Schematic.pdf      - Schematic
+|
++-SimonShield-RevA BOM.txt            - Bill of materials
+|
++-SimonShield-RevA Assembly Plan.pdf  - Shows the location of all components
+                                      to be assembled
+
+
+The hardware design of the SimonShield shield is licensed under a Creative
+Commons Attribution-ShareAlike 3.0 Unported License
+(http://creativecommons.org/licenses/by-sa/3.0/).
+
+The SimonShield shield uses Kicad library components by Walter Lain which are
+licensed under a Creative Commons Attribution-ShareAlike 3.0 License 
+(http://creativecommons.org/licenses/by-sa/3.0/).
