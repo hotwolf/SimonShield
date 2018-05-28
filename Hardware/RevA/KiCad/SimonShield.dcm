@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BUZZER
+D Buzzer, polar
+K Quartz Resonator Ceramic 
+$ENDCMP
+#
+$CMP LED_BICOL
+D Push button switch with LED, generic
+K switch normally-open pushbutton push-button LED
+$ENDCMP
+#
+$CMP LED_KEY
+D Push button switch with LED, generic
+K switch normally-open pushbutton push-button LED
+$ENDCMP
+#
+#End Doc Library
