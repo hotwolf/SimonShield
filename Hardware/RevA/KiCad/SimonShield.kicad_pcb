@@ -13,6 +13,13 @@
   )
 
   (page A4)
+  (title_block
+    (title SimonShield)
+    (date 2018-05-29)
+    (rev RevA)
+    (company hotwolf)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)

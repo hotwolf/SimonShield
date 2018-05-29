@@ -38,10 +38,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "SimonShield"
+Date "2018-05-29"
+Rev "RevA"
+Comp "hotwolf"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -436,7 +436,7 @@ Wire Bus Line
 Wire Bus Line
 	3400 5050 6500 5050
 Wire Bus Line
-	6500 2850 6500 5050
+	6500 5050 6500 2850
 Wire Bus Line
 	3400 4150 3400 5050
 Wire Wire Line
